@@ -1,5 +1,5 @@
 # This python script contains the exact same code as optimization.ipynb but sometimes the jupyter notebook cannot
-# be displayed on GitHub so I put the smae code here
+# be displayed on GitHub so I put the same code here
 
 import numpy as np
 import pandas as pd
